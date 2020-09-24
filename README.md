@@ -12,7 +12,7 @@ create a register function (put rdbs in rdb table)
 intercept queries
 1. just do an api for tables, times and sym
 2. parse selects just for the where clause
-3. parse the by clauses 
+3. parse the by clauses
 
 query comes in, run -30!(::)
 
